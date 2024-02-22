@@ -1,2 +1,1 @@
-# DSA
-In this repositry, we upload all my DSA with python code.
+Welcome to the Python Data Structures and Algorithms Collection repository! Here, you'll find a comprehensive assortment of Python implementations for various data structures and algorithms commonly used in computer science and software development
